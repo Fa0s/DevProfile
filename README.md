@@ -1,2 +1,2 @@
 # DevProfile
-Exercicio DevProfile Modulo3 Semana 6
+Exercicio DevProfile Modulo 3 Semana 6
